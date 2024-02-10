@@ -37,7 +37,7 @@ threadpoolctl==3.1.0
 tqdm==4.64.1
 tzdata==2022.7
 tzlocal==4.2
-urllib3==1.26.14
+urllib3==1.26.18
 Werkzeug==2.3.8
 WTForms==3.0.1
 zipp==3.17.0
