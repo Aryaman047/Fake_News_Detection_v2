@@ -32,13 +32,13 @@ scipy==1.10.0
 six==1.16.0
 soupsieve==2.3.2.post1
 SQLAlchemy==1.4.46
-tensorflow==1.15.0
+tensorflow==2.11.1
 threadpoolctl==3.1.0
 tqdm==4.64.1
 tzdata==2022.7
 tzlocal==4.2
 urllib3==1.26.14
-Werkzeug==2.2.2
+Werkzeug==2.3.8
 WTForms==3.0.1
 zipp==3.17.0
 Flask==2.1.0
