@@ -1,4 +1,4 @@
-﻿backports.zoneinfo==0.2.1
+﻿backports.zoneinfo
 beautifulsoup4==4.11.2
 certifi==2022.12.7
 charset-normalizer==3.0.1
